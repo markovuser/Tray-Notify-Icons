@@ -1,4 +1,5 @@
-[EN]
+[EN]<br>
+<b><big>Only for Windows 11</big></b><br>
 Tray Notify Icons: The Windows Notification Area Wizard
 Introduction:
 Have you noticed your Windows taskbar is cluttered with dozens of icons? Some are essential, while others are just getting in the way. The built-in system tools offer only basic management. Tray Notify Icons is a powerful and simple solution that gives you complete control over the system tray.
@@ -20,7 +21,8 @@ For users whose system tray is overflowing with icons.
 For professionals who value a clean workspace.
 Download Tray Notify Icons and bring perfect order to your system tray!
 
-[RU]
+[RU]<br>
+<b><big>Только для Windows 11</big></b><br>
 Tray Notify Icons: Мастер управления областью уведомлений Windows
 Введение:
 Заметили, что панель задач Windows захламлена десятками значков? Некоторые нужны постоянно, другие лишь мешают. Стандартные средства системы предлагают лишь базовое управление. Tray Notify Icons — это мощное и простое решение, которое даёт вам абсолютный контроль над системным треем.
