@@ -49,7 +49,7 @@ Tray Notify Icons: Мастер управления областью уведо
 
 <div align="center">
 <a href="https://github.com/markovuser/Tray-Notify-Icons/releases/latest"><img src="https://img.shields.io/github/v/release/markovuser/Tray-Notify-Iconst?style=for-the-badge&labelColor=3d3d3d&color=179962" alt="Version"></a>
-<a href="https://github.com/markovuser/Tray-Notify-Icons/releases/latest/download/FTray-Notify-Icons-setup.exe"><img src="https://img.shields.io/github/downloads/markovuser/Tray-Notify-Icons/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
+<a href="https://github.com/markovuser/Tray-Notify-Icons/releases/latest/download/Tray-Notify-Icons-setup.exe"><img src="https://img.shields.io/github/downloads/markovuser/Tray-Notify-Icons/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
 
 </div>
 <br><br>
