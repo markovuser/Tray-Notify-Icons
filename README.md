@@ -41,3 +41,22 @@ Tray Notify Icons: Мастер управления областью уведо
 Для пользователей, чей трей переполнен иконками.
 Для специалистов, которым важно чистое рабочее пространство.
 Скачайте Tray Notify Icons и наведите идеальный порядок в системном трее!
+
+<div align="center">
+  <img src=https://raw.githubusercontent.com/markovuser/Tray-Notify-Icons/main/assets/TrayNotifyIcons.png width="250">
+  <br><br>
+</div>
+
+<div align="center">
+<a href="https://github.com/markovuser/Tray-Notify-Icons/releases/latest"><img src="https://img.shields.io/github/v/release/markovuser/Tray-Notify-Iconst?style=for-the-badge&labelColor=3d3d3d&color=179962" alt="Version"></a>
+<a href="https://github.com/markovuser/Tray-Notify-Icons/releases/latest/download/File-List-setup.exe"><img src="https://img.shields.io/github/downloads/markovuser/Tray-Notify-Icons/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
+
+</div>
+<br><br>
+
+<div align="center">
+  
+[<img src="https://raw.githubusercontent.com/markovuser/Tray-Notify-Icons/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Tray-Notify-Icons/releases/latest/download/Tray-Notify-Icons-setup.exe)<br>
+[<img src="https://raw.githubusercontent.com/markovuser/Tray-Notify-Icons/main/assets/downloadport.png" width="250" alt="Download" title="Portable">](https://github.com/markovuser/Tray-Notify-Icons/releases/latest/download/Tray.Notify.Icons.zip)
+
+</div>
