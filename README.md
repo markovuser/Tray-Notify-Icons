@@ -1,5 +1,5 @@
-<div align="center">#Tray Notify Icons</div>
-<hr>
+<div align="center"><h1>#Tray Notify Icons</h1></div>
+
 [EN]<br>
 <b><big>Only for Windows 11</big></b><br>
 Tray Notify Icons: The Windows Notification Area Wizard
