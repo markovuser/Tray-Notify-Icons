@@ -1,3 +1,5 @@
+<div align="center">#Tray Notify Icons</div>
+<hr>
 [EN]<br>
 <b><big>Only for Windows 11</big></b><br>
 Tray Notify Icons: The Windows Notification Area Wizard
@@ -20,7 +22,7 @@ For anyone who values ​​desktop order.
 For users whose system tray is overflowing with icons.
 For professionals who value a clean workspace.
 Download Tray Notify Icons and bring perfect order to your system tray!
-
+<hr>
 [RU]<br>
 <b><big>Только для Windows 11</big></b><br>
 Tray Notify Icons: Мастер управления областью уведомлений Windows
@@ -43,12 +45,12 @@ Tray Notify Icons: Мастер управления областью уведо
 Для пользователей, чей трей переполнен иконками.
 Для специалистов, которым важно чистое рабочее пространство.
 Скачайте Tray Notify Icons и наведите идеальный порядок в системном трее!
-
+<hr>
 <div align="center">
   <img src=https://raw.githubusercontent.com/markovuser/Tray-Notify-Icons/main/assets/TrayNotifyIcons.png width="250">
   <br><br>
 </div>
-
+<hr>
 <div align="center">
 <a href="https://github.com/markovuser/Tray-Notify-Icons/releases/latest"><img src="https://img.shields.io/github/v/release/markovuser/Tray-Notify-Icons?style=for-the-badge&labelColor=3d3d3d&color=179962" alt="Version"></a>
 <a href="https://github.com/markovuser/Tray-Notify-Icons/releases/latest/download/Tray-Notify-Icons-setup.exe"><img src="https://img.shields.io/github/downloads/markovuser/Tray-Notify-Icons/total?style=for-the-badge&logo=github&color=blue" alt="Downloads"></a>
